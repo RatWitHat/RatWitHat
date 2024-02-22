@@ -1,16 +1,11 @@
 # Hello! 👋 I'm Adrian.
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdkb3B1MGVvZm9ld2UxOGJwN3ZzdWJ2a3I0OHBnZnFoNGt5ZWg3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WbDhQjgBrpUuk/giphy.gif" align="bottom"/>
 
 ## About Me
 I'm a software developer and future John Carmak (possibly).
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdkb3B1MGVvZm9ld2UxOGJwN3ZzdWJ2a3I0OHBnZnFoNGt5ZWg3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WbDhQjgBrpUuk/giphy.gif" align="center"/>
 
 - 🌱 I’m currently learning Java, HTML/CSS and SQL.
-
-![]()
-## Skills
-- Programming Languages: [List of languages you're proficient in].
-- Technologies: [List of technologies you're competent with].
-- Tools: [List of tools you regularly use].
+- 💡  I love solving problems with optimal solutions using code
 
 
 ## GitHub Stats
