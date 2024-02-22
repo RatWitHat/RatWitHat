@@ -5,7 +5,7 @@
 I'm a software developer and future John Carmak (possibly).
 
 - 🌱 I’m currently learning Java, HTML/CSS and SQL.
-- 💡  I love solving problems with optimal solutions using code
+- 💡  I love solving problems with optimal solutions using code.
 
 
 ## GitHub Stats
